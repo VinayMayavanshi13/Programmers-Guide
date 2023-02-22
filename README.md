@@ -14,7 +14,7 @@ For Website - JavaScript, For Apps - Kotlin.
 
 Once you have learn one programming language. It doesn't take even a week to learn other. OfCourse mastery will take some time.
 
-## How to learn a Programming Language :
+## How to learn a Programming Language
 
 Learn about Data types, Input and Output format, Syntax Style, Functions, Arrays, Multidimensional Arrays, Rotation in arrays, Lists, Vectors.
 

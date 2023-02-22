@@ -53,3 +53,21 @@ People have limited capacity to process information. There’s a mountain of inf
 
 ## Multitasking
 Multitasking is like shooting two target with one bullet you will end up missing both targets. Instead of multitasking,switch between the tasks,do one thing at a time.
+
+## The Only Skill you need to learn
+> Source - Educative.io Newsletter
+
+The only skill you need to learn as a Programmer is knowing how to solve a problem. Becoming a great problem solver will enable you to become a great programmer.
+When experienced software engineers are designing a streaming service (think Spotify or YouTube), one of the biggest hurdles they are confronted with is how to design for low latency. As a user, it is extremely annoying whenever you encounter a laggy stream. So, part of a good user experience is making sure that users can stream multimedia content even when their connection drops to 3G speeds (~3-5 megabits/second). When a user presses play, the media should ideally start to play within 200ms.
+
+There are multiple ways that engineers can address this problem, some more elegant than others, but they are the most effective when implemented in tandem.
+
+1. Reduce streaming quality: This may be the first thing to come to mind. If you reduce the quality, you reduce the file size, but this may not be the most user-centric solution.
+
+2. Chunk and buffer downloads: If you can break a file into pieces, the system can work on downloading one piece at a time. By downloading the first second or two of a file, you buy the system more time to buffer the subsequent chunks while the media streams. 
+
+3. Cache queued material: After the media that is currently streaming has finished downloading, the system can cache the next few files in the queue. This is particularly useful when it comes to streaming music in a system like Spotify or Apple Music. If a user skips a song or the internet connection drops, the next track is already cached and ready to play.
+
+When we talk about how software engineers are paid to solve problems rather than write code, this is what we mean. Writing the code to put these solutions into practice takes technical skill, but improving a system given tight computational requirements takes ingenuity, creativity, and even artistry.
+
+So, what should a learner do when embarking on a software engineering journey? In reality, it doesn’t start with writing simple programs. It starts by honing the problem-solving skills that you're already using every day. Then you can learn a programming language to translate those solutions into a format that computers can understand.

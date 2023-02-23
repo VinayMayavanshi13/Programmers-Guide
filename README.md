@@ -51,6 +51,8 @@ Don't fall into the hell of Development v/s Competetive Programming questions. I
 ## Tutorial Hell
 People have limited capacity to process information. There’s a mountain of information in the world and you constantly have to choose what you pay attention to. It’s cognitive overload. This leads to tutorial hell,you feel like wanting to go through each resource and never feel ready for the job. The only to get out of it is building projects and testing things which you have learn.Consequences of tutorial hell are like studying on last day for exam.You know 20 chapters are there to be covered and have already prepared few chapters earlier,still you will end up opening the first page of first chapter. Do not always start from chapter 1.
 
+"If you work for 10 years, do you get 10 years of experience or do you get 1 year of experience 10 times? You have to reflect on your activities to get true experience. If you make learning a continuous commitment, you’ll get experience. If you don’t, you won’t, no matter how many years you have under your belt." – Steve McConnell, Software Engineer.
+
 ## Multitasking
 Multitasking is like shooting two target with one bullet you will end up missing both targets. Instead of multitasking,switch between the tasks,do one thing at a time.
 

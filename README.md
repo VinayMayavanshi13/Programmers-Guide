@@ -91,3 +91,7 @@ So, what should a learner do when embarking on a software engineering journey? I
 - Contribute to open source. The work is similar to professional software development.
 
 - Build all 3 of these at the same time. Don't let yourself procrastinate the scariest parts.
+
+- It's like for years doctors thought that it would be impossible for someone to run a mile in 4 minutes. They thought your heart would explode from running so fast. But then somebody managed to do it. And his heart did not explode. Once Roger Bannister – a 25-year old Oxford student – broke that psychological barrier – a ton of other people did it, too. To date, more than 1,000 people have run a sub-4 minute mile.
+- And it's not like I was doing something bold and unprecedented as running a 4 minute mile here. Plenty of famous developers have managed to teach themselves coding over the years. Heck, Ada Lovelace taught herself programming in the 1840s. And she didn't even have a working computer. She just had an understanding of how her friend Charles Babbage's computer would work in theory.
+- She wrote several of the first computer algorithms. And she's widely regarded as the world's first computer programmer. Nobody taught her. Because there was nobody to teach her. Whatever self doubt she may have had, she clearly overcame it.

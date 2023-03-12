@@ -74,7 +74,7 @@ When we talk about how software engineers are paid to solve problems rather than
 
 So, what should a learner do when embarking on a software engineering journey? In reality, it doesn’t start with writing simple programs. It starts by honing the problem-solving skills that you're already using every day. Then you can learn a programming language to translate those solutions into a format that computers can understand.
 
-## How to learn to Code and Get a Job in 2023
+## How to learn to Code and Get a Developer Job in 2023
 > Quincy Larson
 - You can find work in just about any industry. About two thirds of developer jobs are outside of what we traditionally call "tech" – in agriculture, manufacturing, government, and service industries like banking and healthcare.
 

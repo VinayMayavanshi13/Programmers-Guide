@@ -93,5 +93,23 @@ So, what should a learner do when embarking on a software engineering journey? I
 - Build all 3 of these at the same time. Don't let yourself procrastinate the scariest parts.
 
 - It's like for years doctors thought that it would be impossible for someone to run a mile in 4 minutes. They thought your heart would explode from running so fast. But then somebody managed to do it. And his heart did not explode. Once Roger Bannister – a 25-year old Oxford student – broke that psychological barrier – a ton of other people did it, too. To date, more than 1,000 people have run a sub-4 minute mile.
+
 - And it's not like I was doing something bold and unprecedented as running a 4 minute mile here. Plenty of famous developers have managed to teach themselves coding over the years. Heck, Ada Lovelace taught herself programming in the 1840s. And she didn't even have a working computer. She just had an understanding of how her friend Charles Babbage's computer would work in theory.
+
 - She wrote several of the first computer algorithms. And she's widely regarded as the world's first computer programmer. Nobody taught her. Because there was nobody to teach her. Whatever self doubt she may have had, she clearly overcame it.
+
+### Networking Idea
+
+- I recommend using a Kanban board tool like Trello, which is free.
+
+- You're going to create 5 columns: "to evaluate", "to contact", "waiting for reply", "recently in contact", and "don't contact yet".
+
+- Then you're going to want to create labels, so you can classify people by how you know them. Here are some label ideas for you: "Childhood friend", "Friend of the family", "Former colleague", "Classmate", "Friends from Tech Events".
+
+- As you add people to your board, you can label them. Take a moment to research each of these people. What are they up to these days? Do they have a job? Run a company?
+
+- You can add notes to each card, as you discover new facts about them. Did they recently run a fundraiser 5K run? Did their grandma recently celebrate her 90th birthday? These facts may seem extraneous. But if the person is sharing them on social media, it means these facts are important to them.
+
+- Make an effort to be interested in people. Their daily lives. Their aspirations. By understanding their motivations and goals, you will have deeper insight into how you can help them.
+
+- The best way to forge alliances is to help people.

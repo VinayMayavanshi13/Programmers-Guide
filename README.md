@@ -113,3 +113,16 @@ So, what should a learner do when embarking on a software engineering journey? I
 - Make an effort to be interested in people. Their daily lives. Their aspirations. By understanding their motivations and goals, you will have deeper insight into how you can help them.
 
 - The best way to forge alliances is to help people.
+
+### How to Build Your Reputation as a Developer
+
+There are at least six time-tested ways you can build your reputation as a developer. 
+
+These are:
+
+1. Contributing to open source
+2. Creating Developer-focused content
+3. Rising in the ranks working at companies who have a "household name"
+4. Building a portfolio of freelance clients
+5. Starting your own open source project, company, or charity
+6. Hackathons

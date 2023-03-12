@@ -73,3 +73,21 @@ There are multiple ways that engineers can address this problem, some more elega
 When we talk about how software engineers are paid to solve problems rather than write code, this is what we mean. Writing the code to put these solutions into practice takes technical skill, but improving a system given tight computational requirements takes ingenuity, creativity, and even artistry.
 
 So, what should a learner do when embarking on a software engineering journey? In reality, it doesn’t start with writing simple programs. It starts by honing the problem-solving skills that you're already using every day. Then you can learn a programming language to translate those solutions into a format that computers can understand.
+
+## How to learn to Code and Get a Job in 2023
+> Quincy Larson
+- You can find work in just about any industry. About two thirds of developer jobs are outside of what we traditionally call "tech" – in agriculture, manufacturing, government, and service industries like banking and healthcare.
+
+- Go to tech meetups and conferences. Travel if you have to. (Most of your "learn to code" budget should go toward travel and event tickets – not books and courses.)
+
+- Build your reputation.
+
+- Share short video demos of your projects.
+
+- Keep applying to speak at bigger and bigger conferences.
+
+- Hang out at hackerspaces and help people who are even newer to coding than you.
+
+- Contribute to open source. The work is similar to professional software development.
+
+- Build all 3 of these at the same time. Don't let yourself procrastinate the scariest parts.

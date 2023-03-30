@@ -126,3 +126,30 @@ These are:
 4. Building a portfolio of freelance clients
 5. Starting your own open source project, company, or charity
 6. Hackathons
+
+## Resume Tips
+
+
+- Utilize the space well,avoid cluttered resume. Avoid quotes, summaries, and hobbies.
+
+- Educational Qualifications should be on top if you are a student.
+
+- Keep one liners short bullet points. 
+- Write about your projects, What technology and architecture you used to make it. Try to be more technical and metric-focused.
+
+- Write stats like stars on GitHub and how many people are using your project. Write about things you learn and what challenges you overcame.
+
+- Add workable links to your projects.
+
+- For applying for internships you don't have to be an expert in anything just be open-minded and willing to learn something new.
+
+- For certificates - Don't write participated. Write what you learned. Write what projects you made and what things you worked on. This will be more beneficial.
+
+- When you apply for big tech companies your application goes through an Application Tracking System (ATS) and it is evaluated by a computer. So write Action words in your resume like Established, developed, designed, created, enabled, achieved, launched, enhanced, produced, accomplished, completed, delivered, increased, implemented, debugged, and doubled.
+
+- For interpersonal work (Community work) - Presented, mentored, promoted, demonstrated, recommended, instructed, led, advised, supervised, guided, managed, negotiated.
+
+- For research work - Launched, determined, surveyed, experimented, classified, analyzed, observed, explored, identified, documented, and diagnosed. 
+
+- Check Out this playlist on youtube - [How Google Hires](https://youtube.com/playlist?list=PLllx_3tLoo4c_aR8RKOOnizL5LiUH02YF)
+
